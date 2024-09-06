@@ -92,7 +92,7 @@ Then I tested out the script with various food and budget types and tweaked the 
 **Food: Caribbean; Budget: $40**
 ![image](https://github.com/user-attachments/assets/75721f60-f90f-42c8-9294-2d1a81cafc82)
 
-## Troubleshooting:
+## Issues I ran into:
 
 Early on, I faced difficulties choosing an API that would handle numerous requests calls (for testing) without reaching the monthly quota alloted to the free plan. Originally, I chose other APIs that interested me like one that returned your horoscope based off your sign and time period desired (ie. today, tomorrow, etc) or one that returned recipes based on ingredients you ordered. However, due to only a limited number of requests allowed, I couldn't go far with those APIs.
 ![image](https://github.com/user-attachments/assets/23cfad90-4ab2-4700-8cfe-055f44a6aa03)
